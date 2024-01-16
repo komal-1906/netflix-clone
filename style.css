@@ -18,7 +18,7 @@ body{
     background-size: max(1200px, 100vw);
     position: relative;
     box-shadow: 100px;
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 main .box {
